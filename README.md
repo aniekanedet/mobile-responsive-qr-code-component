@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/screenshot-mobile.jpeg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://aniekanedet.github.io/mobile-responsive-qr-code-component/)
+- Live Site URL: [ here](https://aniekanedet.github.io/mobile-responsive-qr-code-component/)
 
 ## My process
 
