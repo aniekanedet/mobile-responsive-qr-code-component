@@ -13,15 +13,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpeg)
 
-![](./screenshot-mobile.jpg)
+![](./images/screenshot-mobile.jpeg)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://aniekanedet.github.io/mobile-responsive-qr-code-component/)
@@ -41,9 +39,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Aniekan Edet](https://www.behance.net/aniekanedet3)
-- Frontend Mentor - [@yaniekanedet](https://www.frontendmentor.io/profile/aniekanedet)
-- Twitter - [@yourusername](https://twitter.com/aniekanedett)
+- Behance - [Aniekan](https://www.behance.net/aniekanedet3)
+- Frontend Mentor - [@aniekanedet](https://www.frontendmentor.io/profile/aniekanedet)
+- Twitter - [@aniekanedett](https://twitter.com/aniekanedett)
 
 
 
